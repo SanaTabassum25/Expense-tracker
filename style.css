@@ -91,7 +91,7 @@ input[type="number"] {
     width: 100%;
 }
   
-/*.btn {
+.btn {
     cursor: pointer;
     background-color: #9c88ff;
     box-shadow: var(--box-shadow);
@@ -107,7 +107,7 @@ input[type="number"] {
 .btn:focus,
 .delete-btn:focus {
     outline: 0;
-}*/
+}
 
   
 .list {
